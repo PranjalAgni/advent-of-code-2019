@@ -1,0 +1,10 @@
+Duplicate react-redux-infinite-scroll
+Build a Node Server
+Do Api call on Server
+Implement web-socket to realtime update data
+  * On NodeJS do API call after a random time and bring some new data
+  * Emit data from Node app to React app
+Show time-ago on new data in bottom
+Store the data in DB
+On UI load show 5 stored data
+Show in LOG file that after x minute spent we are going to do API call
